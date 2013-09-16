@@ -68,7 +68,7 @@
 		width:320,
 		height:240,
 		path:'',
-		noFlashFound:'<p>You need <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player 11.4</a> to use this software.<br/>Please click on the link to download the installer.</p>'
+		noFlashFound:'<p>You need <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player 11.2+</a> to use this software.<br/>Please click on the link to download the installer.</p>'
 	};
 })(jQuery);
 
