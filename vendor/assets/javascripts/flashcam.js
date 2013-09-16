@@ -35,7 +35,7 @@
 				opts[key] = encodeURIComponent(opts[key]);
 			};
 
-			swfobject.embedSWF(data.path + 'flashcam.swf', opts.id, newWidth, newHeight, '11.4', false, opts, params);
+			swfobject.embedSWF('/assets/flashcam.swf', opts.id, newWidth, newHeight, '11.2', false, opts, params);
 		});
 	};
 
