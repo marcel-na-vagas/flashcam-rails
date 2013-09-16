@@ -27,7 +27,7 @@
 			// use GPU acceleration
 			var params = {
 				menu: 'false',
-				wmode: 'direct'
+				wmode: 'transparent'
 			};
 
 			// Escape all values contained in the flashVars (IE needs this)
