@@ -1,6 +1,6 @@
 # Flashcam::Rails
 
-[Flashcam](https://github.com/zigotto/flashcam) is a flash audio/video recorder made in Adobe Flex wrapped as a jQuery plugin.
+[Flashcam](https://github.com/marcel-na-vagas/flashcam-vagas) is a flash audio/video recorder made in Adobe Flex wrapped as a jQuery plugin.
 
 ## Installation
 
